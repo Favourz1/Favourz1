@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Favour Okoh
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning 
+- 🌱 Learning never ends!
 - 💞️ I’m looking to collaborate on web app projects, Newsletter{Mail} formatting, Web development etc.
 - 📫 How to reach me okohfavour91@gmail.com
 
