@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Favour Okoh
-- 👀 I’m interested in Front-End Development
+- 👀 I’m a Frontend Developer
 - 🌱 Learning never ends!
-- 💞️ I’m looking to collaborate on web app projects, Newsletter{Mail} formatting, Web development etc.
+- 💞️ I’m looking to collaborate on web app projects etc.
 - 📫 How to reach me okohfavour91@gmail.com
+- https://ng.linkedin.com/in/favour-okoh
 
 <!---
 Favourz1/Favourz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
