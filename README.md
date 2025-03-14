@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Software Engineer
 --------------------------
 
-*   🌍  I'm based in Nigeria.
-*   ✉️  You can contact me at [okohfavour91@gmail.com](mailto:okohfavour91@gmail.com)
+
 *   🤝  I'm open to collaborating on building a startup and working on new technologies.
 *   ⚡  I'm empathetic towards user experience and building applications that intrigue the end user. I also love the business side of tech 😉 and software architecture.
+*   ✉️  You can contact me at [okohfavour91@gmail.com](mailto:okohfavour91@gmail.com)
 
   ### Skills 
 <p align="left">
