@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Favour Okoh
 ===================================================================================================================================
 
-Senior Full-stack Software Engineer 
+Founder of Budgetify AI | Senior Full-stack Software Engineer 
 --------------------------
 
 
-*   🤝  I'm open to collaborating on building a startup and working on new technologies.
-*   ⚡  I'm empathetic towards user experience and building applications that intrigue the end user. I also love the business side of tech 😉 and software architecture.
-*   ✉️  You can contact me at [okohfavour91@gmail.com](mailto:okohfavour91@gmail.com)
+*   Founder of Budgetify AI. I build AI-powered product systems across fintech, automation, and developer tooling.
+*   ✉️  You can contact me at [favour.okoh@budgetifyai.com](mailto:favour.okoh@budgetifyai.com)
 
   ### Skills 
 <p align="left">
