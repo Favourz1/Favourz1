@@ -3,10 +3,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Founder of Budgetify AI | Senior Full-stack Software Engineer 
 --------------------------
+www.BudgetifyAI.com - an AI-powered personal finance product focused on helping individuals and small business owners stop overspending and debt, and make better financial decisions.
 
+I’m a full-stack engineer with 6+ years of experience building products across fintech, AI systems, automation, and developer tooling. Most of my advanced startup and client work are private, but this profile showcases selected public projects, experiments, and tools that reflect how I think and build.
 
-*   Founder of Budgetify AI. I build AI-powered product systems across fintech, automation, and developer tooling.
-*   ✉️  You can contact me at [favour.okoh@budgetifyai.com](mailto:favour.okoh@budgetifyai.com)
+## What I’m working on
+
+* Building Budgetify AI
+* Designing AI-powered workflows and product systems
+* Shipping end-to-end products with React, TypeScript, Node.js, and Python
+
+## Current focus
+
+Fintech, AI applications, workflow automation, product engineering
+
+**Website**: [Budgetify AI](https://budgetifyai.com)
+**LinkedIn**: [Profile](https://www.linkedin.com/in/favour-okoh/) 
+**Contact**: [favour.okoh@budgetifyai.com](mailto:favour.okoh@budgetifyai.com)
+
 
   ### Skills 
 <p align="left">
